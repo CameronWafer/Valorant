@@ -8,8 +8,7 @@ This is a continuous project—never fully complete but always progressing with 
 ---
 
 ## Dataset Description: VLR.gg Professional Valorant Match Statistics
-This dataset contains detailed statistics from professional Valorant matches, sourced from VLR.gg—a leading platform for tracking competitive Valorant tournaments, players, and teams. The data has been collected via web scraping techniques or manually curated based on publicly available match data.
-
+This dataset contains detailed statistics from professional Valorant matches, sourced from VLR.gg—a leading platform for tracking competitive Valorant tournaments, players, and teams.
 ---
 
 ## Variables in the Dataset
