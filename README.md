@@ -9,40 +9,29 @@ This is a continuous project—never fully complete but always progressing with 
 
 ## Dataset Description: VLR.gg Professional Valorant Match Statistics
 This dataset contains detailed statistics from professional Valorant matches, sourced from VLR.gg—a leading platform for tracking competitive Valorant tournaments, players, and teams.
----
-
-## Variables in the Dataset
-
-### **Match-Level Variables**
-- **Match ID**: Unique identifier for each match.
-- **Date**: The date when the match took place (format: YYYY-MM-DD).
-- **Tournament Name**: Name of the tournament where the match occurred.
-- **Team 1**: The name of the first team.
-- **Team 2**: The name of the second team.
-- **Score (Team 1)**: The total number of maps won by Team 1.
-- **Score (Team 2)**: The total number of maps won by Team 2.
-- **Map Name**: The specific map played during a match (e.g., Haven, Bind).
-- **Duration**: Length of the map/match in minutes.
 
 ---
 
-### **Player-Level Variables**
-- **Player Name**: The in-game name (IGN) of the player.
-- **Team**: The team to which the player belongs during the match.
-- **Agent**: The character selected by the player for the map.
-- **Kills**: Total number of eliminations made by the player.
-- **Deaths**: Total number of times the player was eliminated.
-- **Assists**: Number of assists recorded by the player.
-- **ACS**: Average Combat Score, a key performance metric in Valorant.
-- **ADR**: Average Damage per Round.
-- **Headshot %**: Percentage of eliminations made via headshots.
+## Variables
 
----
-
-### **Agent-Level Variables**
-- **Agent Name**: The name of the agent (e.g., Jett, Omen).
-- **Pick Rate**: Percentage of matches in which the agent was selected.
-- **Win Rate**: Percentage of matches won when this agent was used.
-- **Average ACS**: The mean ACS for the agent across all matches.
+1. **Rnd**: Total rounds played in the match.
+2. **R2.0**: Rating 2.0, an overall performance rating in Valorant (aggregated score).
+3. **ACS**: Average Combat Score, measures in-game performance based on kills, assists, and damage.
+4. **K:D**: Kill-to-Death ratio, the number of kills per death.
+5. **KAST**: Percentage of rounds with a kill, assist, survived, or traded involvement.
+6. **ADR**: Average Damage per Round, damage dealt per round.
+7. **KPR**: Kills Per Round, average kills per round.
+8. **APR**: Assists Per Round, average assists per round.
+9. **FKPR**: First Kills Per Round, average first kills per round.
+10. **FDPR**: First Deaths Per Round, average first deaths per round.
+11. **HS%**: Headshot Percentage, percentage of kills achieved via headshots.
+12. **CL%**: Clutch Percentage, percentage of successful clutch rounds.
+13. **CL**: Number of clutch rounds won.
+14. **KMax**: Maximum kills in a single round.
+15. **K**: Total kills in the match.
+16. **D**: Total deaths in the match.
+17. **A**: Total assists in the match.
+18. **FK**: Total first kills in the match.
+19. **FD**: Total first deaths in the match.
 
 ---
