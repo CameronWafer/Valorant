@@ -14,24 +14,24 @@ This dataset contains detailed statistics from professional Valorant matches, so
 
 ## Variables
 
-1. **Rnd**: Total rounds played in the match.
-2. **R2.0**: Rating 2.0, an overall performance rating in Valorant (aggregated score).
-3. **ACS**: Average Combat Score, measures in-game performance based on kills, assists, and damage.
-4. **K:D**: Kill-to-Death ratio, the number of kills per death.
-5. **KAST**: Percentage of rounds with a kill, assist, survived, or traded involvement.
-6. **ADR**: Average Damage per Round, damage dealt per round.
-7. **KPR**: Kills Per Round, average kills per round.
-8. **APR**: Assists Per Round, average assists per round.
-9. **FKPR**: First Kills Per Round, average first kills per round.
-10. **FDPR**: First Deaths Per Round, average first deaths per round.
-11. **HS%**: Headshot Percentage, percentage of kills achieved via headshots.
-12. **CL%**: Clutch Percentage, percentage of successful clutch rounds.
-13. **CL**: Number of clutch rounds won.
-14. **KMax**: Maximum kills in a single round.
-15. **K**: Total kills in the match.
-16. **D**: Total deaths in the match.
-17. **A**: Total assists in the match.
-18. **FK**: Total first kills in the match.
-19. **FD**: Total first deaths in the match.
+- **Rnd**: Total rounds played in the match.
+- **R2.0**: Rating 2.0, an overall performance rating in Valorant (aggregated score).
+- **ACS**: Average Combat Score, measures in-game performance based on kills, assists, and damage.
+- **K:D**: Kill-to-Death ratio, the number of kills per death.
+- **KAST**: Percentage of rounds with a kill, assist, survived, or traded involvement.
+- **ADR**: Average Damage per Round, damage dealt per round.
+- **KPR**: Kills Per Round, average kills per round.
+- **APR**: Assists Per Round, average assists per round.
+- **FKPR**: First Kills Per Round, average first kills per round.
+- **FDPR**: First Deaths Per Round, average first deaths per round.
+- **HS%**: Headshot Percentage, percentage of kills achieved via headshots.
+- **CL%**: Clutch Percentage, percentage of successful clutch rounds.
+- **CL**: Number of clutch rounds won.
+- **KMax**: Maximum kills in a single round.
+- **K**: Total kills in the match.
+- **D**: Total deaths in the match.
+- **A**: Total assists in the match.
+- **FK**: Total first kills in the match.
+- **FD**: Total first deaths in the match.
 
 ---
