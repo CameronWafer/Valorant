@@ -48,7 +48,7 @@ This dataset contains detailed statistics from professional Valorant matches, so
 
 ---
 
-#### Sample LLN Output for a player
+# Sample LLN Output for a player
 
 ### Player Performance Summary: florescent SR on Neon
 
