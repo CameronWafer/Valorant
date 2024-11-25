@@ -7,6 +7,16 @@ This is a continuous project—never fully complete but always progressing with 
 
 ---
 
+feat: Integrated OpenAI LLM for Player Performance Analysis
+
+- Added OpenAI GPT API integration to generate natural language summaries for each player's performance.
+- Summaries highlight key stats (ACS, K/D Ratio, KAST, etc.), notable achievements, and improvement areas.
+- Outputs are stored in the results and formatted for easy review.
+- Improved interpretability of player stats through automated, detailed insights.
+
+
+---
+
 ## Dataset Description: VLR.gg Professional Valorant Match Statistics
 This dataset contains detailed statistics from professional Valorant matches, sourced from VLR.gg—a leading platform for tracking competitive Valorant tournaments, players, and teams.
 
