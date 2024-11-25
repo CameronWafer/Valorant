@@ -7,7 +7,7 @@ This is a continuous project—never fully complete but always progressing with 
 
 ---
 
-# feat: Integrated OpenAI LLM for Player Performance Analysis (UPDATED)
+# Integrated OpenAI LLM for Player Performance Analysis (UPDATED)
 
 - Added OpenAI GPT API integration to generate natural language summaries for each player's performance.
 - Summaries highlight key stats (ACS, K/D Ratio, KAST, etc.), notable achievements, and improvement areas.
