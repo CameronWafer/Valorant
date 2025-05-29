@@ -1,4 +1,4 @@
-# In-Depth Analysis of Professional Valorant Scene
+# SmartPlay: In-Depth Analysis of Professional Valorant Scene
 
 ### Overview
 This project involves a detailed data analysis of the current professional Valorant scene. The data is scraped from [VLR.gg](https://vlr.gg) using Selenium and filtered for the past 90 days (as of **November 14, 2024**).  
